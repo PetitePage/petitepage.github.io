@@ -12,4 +12,4 @@ theme = "terminal"
 
 [[menu.main]]
   name = "About"
-  url = "/about"
+  url = "about"
